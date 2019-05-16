@@ -20,7 +20,7 @@ msgid "NO"
 msgstr "NÃO"
 
 msgid "NETWORK CONNECTION NEEDED"
-msgstr "CONEXÃO COM A INTERNET NECESSÁRIA"
+msgstr "A CONEXÃO COM A INTERNET É NECESSÁRIA"
 
 msgid "OK"
 msgstr "OK"
@@ -32,10 +32,10 @@ msgid "NO UPDATE AVAILABLE"
 msgstr "NENHUMA ATUALIZAÇÃO DISPONÍVEL"
 
 msgid "AN ERROR OCCURED"
-msgstr "UM ERRO OCORREU"
+msgstr "OCORREU UM ERRO"
 
 msgid "INPUT"
-msgstr "EDITAR"
+msgstr "ENTRADA"
 
 msgid "SEARCH"
 msgstr "PROCURAR"
@@ -56,7 +56,7 @@ msgid "SORT GAMES BY"
 msgstr "ORDENAR JOGOS POR"
 
 msgid "FILTER GAMELIST"
-msgstr "FILTRAR GAMELIST"
+msgstr "FILTRAR LISTA DE JOGOS"
 
 msgid "EDIT THIS GAME'S METADATA"
 msgstr "EDITAR AS INFORMAÇÕES DO JOGO"
@@ -89,31 +89,31 @@ msgid "RETROACHIEVEMENTS"
 msgstr "RETROACHIEVEMENTS"
 
 msgid "SCRAPE"
-msgstr "SCRAPE"
+msgstr "CAPAS"
 
 msgid "SYSTEM SETTINGS"
 msgstr "OPÇÕES DE SISTEMA"
 
 msgid "INFORMATIONS"
-msgstr "INFORMAÇÃO"
+msgstr "INFORMAÇÕES"
 
 msgid "QUIT"
 msgstr "SAIR"
 
 msgid "SCRAPE FROM"
-msgstr "SCRAPER DO"
+msgstr "PEGAR CAPAS DO"
 
 msgid "SCRAPE RATINGS"
-msgstr "SCRAPE DAS AVALIAÇÕES"
+msgstr "PEGAR AVALIAÇÕES"
 
 msgid "SCRAPE NOW"
-msgstr "SCRAPE"
+msgstr "INICIAR"
 
 msgid "CHOOSE"
 msgstr "ESCOLHER"
 
 msgid "SELECT"
-msgstr "SELECT"
+msgstr "SELECIONAR"
 
 msgid "INFORMATION"
 msgstr "INFORMAÇÃO"
@@ -122,7 +122,7 @@ msgid "VERSION"
 msgstr "VERSÃO"
 
 msgid "DISK USAGE"
-msgstr "ESPAÇO DISPONÍVEL"
+msgstr "USO DO DISCO"
 
 msgid "CREATE A SUPPORT FILE ?"
 msgstr "CRIAR UM ARQUIVO DE SUPORTE?"
@@ -155,7 +155,7 @@ msgid "START UPDATE"
 msgstr "INICIAR ATUALIZAÇÃO"
 
 msgid "BACKUP USER DATA"
-msgstr "BACKUP DOS DADOS DO USUÁRIO"
+msgstr "BACKUP DE DADOS DO USUÁRIO"
 
 msgid "KODI SETTINGS"
 msgstr "OPÇÕES DO KODI"
@@ -167,7 +167,7 @@ msgid "KODI AT START"
 msgstr "ABRIR KODI NA INICIALIZAÇÃO"
 
 msgid "START KODI WITH X"
-msgstr "INICIAR KODI PRESSIONANDO X"
+msgstr "INICIAR KODI APERTANDO X"
 
 msgid "INSTALL BATOCERA ON A NEW DISK"
 msgstr "INSTALAR BATOCERA EM UM NOVO DISCO"
@@ -194,16 +194,16 @@ msgid "AUTO"
 msgstr "AUTOMÁTICO"
 
 msgid "ON"
-msgstr "ON"
+msgstr "LIGADO"
 
 msgid "OFF"
-msgstr "OFF"
+msgstr "DESLIGADO"
 
 msgid "REWIND"
 msgstr "RETROCEDER"
 
 msgid "AUTO SAVE/LOAD"
-msgstr "CARREGAR/SALVAR AUTOMÁTICO"
+msgstr "CARREGAR/SALVAR AUTOMATICAMENTE"
 
 msgid "SHADERS SET"
 msgstr "CONJUNTO DE FILTROS DE IMAGEM"
@@ -309,7 +309,7 @@ msgid "THEME SET"
 msgstr "TEMA"
 
 msgid "GAMELIST VIEW STYLE"
-msgstr "TIPO DE VISUALIZAÇÃO DA GAMELIST"
+msgstr "TIPO DE VISUALIZAÇÃO DA LISTA DE JOGOS"
 
 msgid "START ON SYSTEM"
 msgstr "COMECE NO SISTEMA"
@@ -318,7 +318,7 @@ msgid "TRANSITION STYLE"
 msgstr "ESTILO DE TRANSIÇÃO"
 
 msgid "SCREENSAVER AFTER"
-msgstr "ATIVAR PROTEÇÃO DE TELA"
+msgstr "ATIVAR PROTEÇÃO DE TELA EM"
 
 msgid "SCREENSAVER BEHAVIOR"
 msgstr "TIPO DA PROTEÇÃO DE TELA"
@@ -351,7 +351,7 @@ msgid "SAVE METADATA ON EXIT"
 msgstr "SALVAR INFORMAÇÕES NA SAÍDA"
 
 msgid "PARSE GAMESLISTS ONLY"
-msgstr "ANALISAR APENAS A GAMESLISTS"
+msgstr "ANALISAR APENAS A LISTA DE JOGOS"
 
 msgid "SEARCH FOR LOCAL ART"
 msgstr "PESQUISA DE ARTE LOCAL"
@@ -405,13 +405,13 @@ msgid "WIFI CONFIGURATION ERROR"
 msgstr "ERRO NA CONFIGURAÇÃO DO WIFI"
 
 msgid "REALLY SCRAPE?"
-msgstr "REALIZAR SCRAPE?"
+msgstr "PEGAAR CAPAS?"
 
 msgid "AUTOMATIC SCRAPER"
-msgstr "SCRAPER AUTOMÁTICO"
+msgstr "PEGAR CAPAS AUTOMATICAMENTE"
 
 msgid "MANUAL SCRAPER"
-msgstr "SCRAPER MANUAL"
+msgstr "PEGAR CAPAS DE FORMA MANUAL"
 
 msgid "REALLY RESTART?"
 msgstr "DESEJA REINICIAR?"
@@ -432,13 +432,13 @@ msgid "FAST SHUTDOWN SYSTEM"
 msgstr "DESLIGAR SISTEMA RAPIDAMENTE"
 
 msgid "Emulator"
-msgstr "Emulador"
+msgstr "EMULADOR"
 
 msgid "Core"
 msgstr "NÚCLEO DE EMULAÇÃO"
 
 msgid "VIDEO MODE"
-msgstr "MODO VÍDEO"
+msgstr "MODO DE VÍDEO"
 
 msgid "INSTALL BATOCERA"
 msgstr "INSTALAR BATOCERA"
@@ -462,25 +462,25 @@ msgid "NETWORK REQUIRED"
 msgstr "REDE NECESSÁRIA"
 
 msgid "SCRAPING IN PROGRESS"
-msgstr "SCRAPING EM PROGRESSO"
+msgstr "DOWNLOAD DE CAPAS EM PROGRESSO"
 
 msgid "SYSTEM"
 msgstr "SISTEMA"
 
 msgid "subtitle text"
-msgstr "legenda"
+msgstr "LEGENDA"
 
 msgid "search"
-msgstr "procurar"
+msgstr "PROCURAR"
 
 msgid "SKIP"
-msgstr "PASSAR"
+msgstr "IGNORAR"
 
 msgid "STOP"
 msgstr "PARAR"
 
 msgid "stop (progress saved)"
-msgstr "parar (progresso salvo)"
+msgstr "PARAR (PROGRESSO SALVO)"
 
 #, c-format
 msgid "GAME %i OF %i"
@@ -493,35 +493,35 @@ msgid ""
 msgstr ""
 "NÃO FOI POSSÍVEL ENCONTRAR NENHUM SISTEMA! \n"
 "VERIFIQUE SE OS CAMINHOS ESTÃO CORRETOS NO ARQUIVO DE CONFIGURAÇÃO DO "
-"SISTEMA EO SEU DIRETÓRIO DE JOGOS TENHA PELO MENOS UM JOGO COM A EXTENSÃO "
+"SISTEMA E O SEU DIRETÓRIO DE JOGOS TENHA PELO MENOS UM JOGO COM A EXTENSÃO "
 "CORRETA."
 
 #, c-format
 msgid "%i GAME SUCCESSFULLY SCRAPED!"
 msgid_plural "%i GAMES SUCCESSFULLY SCRAPED!"
-msgstr[0] "%i SCRAPE REALIZADO!"
-msgstr[1] "%i SCRAPES REALIZADOS!"
+msgstr[0] "%i CAPA BAIXADA!"
+msgstr[1] "%i CAPAS BAIXADAS!"
 
 #, c-format
 msgid "%i GAME SKIPPED."
 msgid_plural "%i GAMES SKIPPED."
-msgstr[0] "%i SCRAPE IGNORADO."
-msgstr[1] "%i SCRAPES IGNORADOS."
+msgstr[0] "%i CAPA IGNORADA."
+msgstr[1] "%i CAPAS IGNORADAS."
 
 msgid "SCRAPE THESE GAMES"
-msgstr "SCRAPE DESSES JOGOS"
+msgstr "CAPAS DESSES JOGOS"
 
 msgid "All Games"
-msgstr "Todos os jogos"
+msgstr "TODOS OS JOGOS"
 
 msgid "Only missing image"
-msgstr "Somente imagens faltantes"
+msgstr "SOMENTE IMAGENS QUE FALTAM"
 
 msgid "FILTER"
 msgstr "FILTRO"
 
 msgid "SCRAPE THESE SYSTEMS"
-msgstr "SCRAPE DESSES SISTEMAS"
+msgstr "CAPAS DESSES SISTEMAS"
 
 msgid "SYSTEMS"
 msgstr "SISTEMAS"
@@ -530,7 +530,7 @@ msgid "USER DECIDES ON CONFLICTS"
 msgstr "USUÁRIO DECIDE CONFLITOS"
 
 msgid "START"
-msgstr "START"
+msgstr "INICIAR"
 
 msgid ""
 "WARNING: SOME OF YOUR SELECTED SYSTEMS DO NOT HAVE A PLATFORM SET. RESULTS "
@@ -538,8 +538,8 @@ msgid ""
 "CONTINUE ANYWAY?"
 msgstr ""
 "AVISO: ALGUNS DOS SISTEMAS SELECIONADOS NÃO POSSUEM INFORMAÇÕES PARA "
-"REALIZAR O SCRAPE. O RESULTADO DO SCRAPE PODE SER MAIS IMPRECISO QUE O "
-"NORMAL!\n"
+"REALIZAR O DOWNLOAD DE CAPAS. O RESULTADO DO SCRAPE PODE SER MAIS "
+"IMPRECISO QUE O NORMAL!\n"
 "CONTINUAR MESMO ASSIM?"
 
 msgid "NO GAMES FIT THAT CRITERIA."
@@ -552,13 +552,13 @@ msgid "SAVE CHANGES?"
 msgstr "SALVAR MODIFICAÇÕES?"
 
 msgid "Name"
-msgstr "Nome"
+msgstr "NOME"
 
 msgid "enter game name"
-msgstr "digite o nome do jogo"
+msgstr "DIGITE O NOME DO JOGO"
 
 msgid "Sort name"
-msgstr "Classificar nome"
+msgstr "CLASSIFICAR NOME"
 
 msgid "enter game sort name"
 msgstr "INSIRA O NOME DE CLASSIFICAÇÃO DO JOGO"
@@ -570,28 +570,28 @@ msgid "enter description"
 msgstr "DIGITE A DESCRIÇÃO"
 
 msgid "Image"
-msgstr "Imagem"
+msgstr "IMAGEM"
 
 msgid "enter path to image"
-msgstr "DIGITE O DIRETÓRIO DA IMAGEM"
+msgstr "DIGITE O CAMINHO/PASTA DA IMAGEM"
 
 msgid "Path to video"
 msgstr "CAMINHO PARA O VÍDEO"
 
 msgid "enter path to thumbnail"
-msgstr "DIGITE O DIRETÓRIO DA MINIATURA"
+msgstr "DIGITE O CAMINHO/PASTA DA MINIATURA"
 
 msgid "Path to marquee"
-msgstr "Caminho para a marquee"
+msgstr "CAMINHO/PASTA PARA A MARQUEE"
 
 msgid "Thumbnail"
-msgstr "Miniatura"
+msgstr "MINIATURA"
 
 msgid "Rating"
 msgstr "AVALIAÇÃO"
 
 msgid "enter rating"
-msgstr "digite a nota"
+msgstr "DIGITE A NOTA"
 
 msgid "Release date"
 msgstr "DATA DE LANÇAMENTO"
@@ -600,16 +600,16 @@ msgid "enter release date"
 msgstr "DIGITE A DATA DE LANÇAMENTO"
 
 msgid "Developer"
-msgstr "Desenvolvedor"
+msgstr "DESENVOLVEDOR"
 
 msgid "enter game developer"
-msgstr "digite o nome da produtora"
+msgstr "DIGITE O NOME DA PRODUTORA"
 
 msgid "Publisher"
-msgstr "Distribuidor"
+msgstr "DISTRIBUIDOR"
 
 msgid "enter game publisher"
-msgstr "digite o nome da publicadora"
+msgstr "DIGITE O NOME DA EDITORA"
 
 msgid "Genre"
 msgstr "GÊNERO"
@@ -618,28 +618,28 @@ msgid "enter game genre"
 msgstr "DIGITE O GÊNERO"
 
 msgid "Players"
-msgstr "Jogadores"
+msgstr "JOGADORES"
 
 msgid "enter number of players"
-msgstr "digite o número de jogadores"
+msgstr "DIGITE O NÚMERO DE JOGADORES"
 
 msgid "Favorite"
-msgstr "Favorito"
+msgstr "FAVORITO"
 
 msgid "enter favorite"
 msgstr "entrar favoritos"
 
 msgid "Hidden"
-msgstr "Oculto"
+msgstr "OCULTO"
 
 msgid "set hidden"
-msgstr "ocultar rom"
+msgstr "OCULTAR ROM"
 
 msgid "Kidgame"
-msgstr "Infantil"
+msgstr "INFANTIL"
 
 msgid "set kidgame"
-msgstr "definir infantil"
+msgstr "DEFINIR COMO INFANTIL"
 
 msgid "Play count"
 msgstr "NÚMERO DE JOGADAS"
@@ -648,37 +648,37 @@ msgid "enter number of times played"
 msgstr "DIGITE O NÚMERO DE VEZES JOGADAS"
 
 msgid "Last played"
-msgstr "ÚLTIMA VEZ JOGADO"
+msgstr "ÚLTIMA VEZ QUE FOI JOGADO"
 
 msgid "enter last played date"
 msgstr "DIGITE A ÚLTIMA DATA JOGADA"
 
 msgid "name"
-msgstr "nome"
+msgstr "NOME"
 
 msgid "sortname"
-msgstr "ordenarnome"
+msgstr "ORDENAR POR NOME"
 
 msgid "description"
 msgstr "DESCRIÇÃO"
 
 msgid "image"
-msgstr "imagem"
+msgstr "IMAGEM"
 
 msgid "thumbnail"
-msgstr "miniatura"
+msgstr "MINIATURA"
 
 msgid "video"
 msgstr "VÍDEO"
 
 msgid "enter path to video"
-msgstr "INSIRA O CAMINHO PARA O VÍDEO"
+msgstr "INSIRA O CAMINHO/PASTA DO VÍDEO"
 
 msgid "marquee"
-msgstr "marquee"
+msgstr "MARQUEE"
 
 msgid "enter path to marquee"
-msgstr "insira o caminho para a marquee"
+msgstr "INSIRA O CAMINHO/PASTA PARA O MARQUEE"
 
 msgid "DO YOU WANT TO START KODI MEDIA CENTER ?"
 msgstr "DESEJA INICIAR O KODI MEDIA CENTER?"
@@ -702,7 +702,7 @@ msgid "Released"
 msgstr "LANÇADO"
 
 msgid "Times played"
-msgstr "Vezes jogados"
+msgstr "VEZES QUE FOI JOGADO"
 
 msgid "LAUNCH"
 msgstr "EXECUTAR"
@@ -714,33 +714,33 @@ msgid "MENU"
 msgstr "MENU"
 
 msgid "NO GAMES FOUND - SKIP"
-msgstr "NENHUM JOGO ENCONTRADO - PASSAR"
+msgstr "NENHUM JOGO ENCONTRADO - PULAR"
 
 msgid "RETRY"
 msgstr "REPETIR"
 
 msgid "ACCEPT RESULT"
-msgstr "Aceitar Resultados"
+msgstr "ACEITAR OS RESULTADOS"
 
 msgid "Loading..."
-msgstr "Carregando..."
+msgstr "CARREGANDO..."
 
 msgid "Loading system config..."
-msgstr "Carregando a configuração do sistema..."
+msgstr "CARREGANDO A CONFIGURAÇÃO DO SISTEMA..."
 
 msgid "Done."
-msgstr "Concluído."
+msgstr "FINALIZADO."
 
 msgid "UPDATE AVAILABLE"
 msgstr "ATUALIZAÇÃO DISPONÍVEL"
 
 #, c-format
 msgid "Added '%s' to '%s'"
-msgstr "'%s' adicionado ao '%s'"
+msgstr "'%s' ADICIONADO AO '%s'"
 
 #, c-format
 msgid "Removed '%s' from '%s'"
-msgstr "'%s' removido do '%s'"
+msgstr "'%s' REMOVIDO DO '%s'"
 
 msgid "UP"
 msgstr "CIMA"
@@ -793,14 +793,14 @@ msgid ""
 "WITH A CONTROLLER. DO YOU WANT TO USE THE SELECT BUTTON DEFAULT ? PLEASE "
 "ANSWER YES TO USE SELECT OR NO TO NOT SET A HOTKEY ENABLE BUTTON."
 msgstr ""
-"VOCÊ NÃO CONFIGUROU UM BOTÃO HOTKEY. É NECESSÁRIO PARA SAIR DOS JOGOS. "
+"VOCÊ NÃO CONFIGUROU UM BOTÃO HOTKEY. ELE É NECESSÁRIO PARA SAIR DOS JOGOS. "
 "QUER ATRIBUIR ESTA OPÇÃO AO BOTÃO SELECT ?"
 
 #, c-format
 msgid "HOLD FOR %iS TO SKIP"
 msgid_plural "HOLD FOR %iS TO SKIP"
-msgstr[0] "SEGURE POR %i SEG PARA PASSAR"
-msgstr[1] "SEGURE POR %i SEGS PARA PASSAR"
+msgstr[0] "SEGURE POR %i SEG PARA PULAR"
+msgstr[1] "SEGURE POR %i SEGS PARA PULAR"
 
 msgid "PRESS ANYTHING"
 msgstr "PRESSIONE QUALQUER BOTÃO"
@@ -821,7 +821,7 @@ msgid "DELETE A CHAR"
 msgstr "DELETAR UM CARÁCTER"
 
 msgid "DISCARD CHANGES"
-msgstr "ANULAR MODIFICAÇÕES"
+msgstr "DESCARTAR MODIFICAÇÕES"
 
 msgid "SHIFT"
 msgstr "MUDANÇA"
@@ -904,28 +904,28 @@ msgstr "EM PROGRESSO..."
 #~ "VOCE TEM CERTEZA?"
 
 #~ msgid "enter emulator"
-#~ msgstr "digite o emulador"
+#~ msgstr "DIGITE O EMULADOR"
 
 #~ msgid "enter core"
-#~ msgstr "digite o núcleo de emulação"
+#~ msgstr "DIGITE O NÚCLEO DE EMULAÇÃO"
 
 #~ msgid "Ratio"
-#~ msgstr "Taxa"
+#~ msgstr "TAXA"
 
 #~ msgid "enter ratio"
-#~ msgstr "digite a taxa"
+#~ msgstr "DIGITE A TAXA"
 
 #~ msgid "Region"
-#~ msgstr "Região"
+#~ msgstr "REGIÃO"
 
 #~ msgid "enter region"
-#~ msgstr "digite a região"
+#~ msgstr "DIGITE A REGIÃO"
 
 #~ msgid "Romtype"
-#~ msgstr "Romtype"
+#~ msgstr "TIPO DE ROM"
 
 #~ msgid "enter romtype"
-#~ msgstr "digite o tipo de rom"
+#~ msgstr "DIGITE O TIPO DE ROM"
 
 #~ msgid "%i FAVORITE"
 #~ msgid_plural "%i FAVORITES"
@@ -936,25 +936,25 @@ msgstr "EM PROGRESSO..."
 #~ msgstr "ROLAR"
 
 #~ msgid "FILENAME"
-#~ msgstr "Nome do Arquivo"
+#~ msgstr "NOME DO ARQUIVO"
 
 #~ msgid "RATING"
-#~ msgstr "Classificação"
+#~ msgstr "CLASSIFICAÇÃO"
 
 #~ msgid "TIMES PLAYED"
-#~ msgstr "Horas Jogadas"
+#~ msgstr "HORAS JOGADAS"
 
 #~ msgid "LAST PLAYED"
-#~ msgstr "Jogou pela última vez"
+#~ msgstr "JOGOU PELA ÚLTIMA VEZ"
 
 #~ msgid "NUMBER OF PLAYERS"
-#~ msgstr "Número de Jogadores"
+#~ msgstr "NÚMERO DE JOGADORES"
 
 #~ msgid "DEVELOPER"
-#~ msgstr "Desenvolvedor"
+#~ msgstr "DESENVOLVEDOR"
 
 #~ msgid "GENRE"
-#~ msgstr "Gênero"
+#~ msgstr "GÊNERO"
 
 #~ msgid "SEARCH FOR"
 #~ msgstr "PROCURAR POR"
@@ -984,10 +984,10 @@ msgstr "EM PROGRESSO..."
 #~ msgstr "POR FAVOR, AGUARDE..."
 
 #~ msgid "never"
-#~ msgstr "nunca"
+#~ msgstr "NUNCA"
 
 #~ msgid "just now"
-#~ msgstr "agora"
+#~ msgstr "AGORA"
 
 #~ msgid "%i sec ago"
 #~ msgid_plural "%i secs ago"
@@ -1010,7 +1010,7 @@ msgstr "EM PROGRESSO..."
 #~ msgstr[1] "%i dias atrás"
 
 #~ msgid "unknown"
-#~ msgstr "desconhecido"
+#~ msgstr "DESCONHECIDO"
 
 #~ msgid "EXTREM (1100Mhz)"
 #~ msgstr "EXTREMO (1100Mhz)"
@@ -1049,7 +1049,7 @@ msgstr "EM PROGRESSO..."
 #~ msgstr "UMA ATUALIZAÇÃO ESTÁ DISPONÍVEL PARA SEU BATOCERA.LINUX"
 
 #~ msgid "SCRAPER"
-#~ msgstr "SCRAPER"
+#~ msgstr "CAPAS"
 
 #~ msgid "NONE (700Mhz)"
 #~ msgstr "DESLIGADO (700Mhz)"
